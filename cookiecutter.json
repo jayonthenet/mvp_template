@@ -1,0 +1,12 @@
+{
+    "cookiecutter": {
+        "app_name": "{{cookiecutter.app_name}}"
+    },
+    "prompts": [
+        {
+            "type": "input",
+            "name": "app_name",
+            "message": "What is the name of your application?"
+        }
+    ]
+}
