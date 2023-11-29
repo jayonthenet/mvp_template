@@ -9,8 +9,9 @@
         },
         {
             "type": "input",
-            "name": "project_slug",
-            "message": "What is the name of your project?"
+            "name": "irrelevant",
+            "message": "This is just a test...",
+            "default": "crazy stuff"
         }
     ]
 }
